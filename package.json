@@ -1,0 +1,15 @@
+{
+  "name": "problemset-4-survey-electron",
+  "version": "1.0.0",
+  "description": "problem set 4 survey",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jam Bonifacio",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^16.0.7"
+  }
+}
